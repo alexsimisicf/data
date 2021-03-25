@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "email": "alex@cf.fr",
+      "password": "test"
+    },
+    {
+      "id": 2,
+      "name": "Kevin",
+      "email": "kevin@cf.fr",
+      "password": "test"
+    },
+    {
+      "id": 3,
+      "name": "Rached",
+      "email": "rached@cf.fr",
+      "password": "test"
+    },
+    {
+      "id": 4,
+      "name": "Cilene",
+      "email": "cilene@cf.fr",
+      "password": "test"
+    }
+  ]
+}
